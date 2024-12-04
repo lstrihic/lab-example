@@ -1,10 +1,13 @@
 slug: lovro-123-123-track-k1m6v4
 id: n4rudpvyjv4g
 revision: 1
-title: lovro-123-123
+title: lovro-123-12
 description: ""
 icon: ""
-tags: []
+tags:
+- barrens
+- cloud account
+- docker
 owner: acme
 developers:
 - lovro@instruqt.com
